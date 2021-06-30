@@ -1,0 +1,11 @@
+{
+  "name": "primeros_pasos_express",
+  "version": "1.0.0",
+  "description": "usando por primeras",
+  "main": "index.js",
+  "author": "Carlos Ayala",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
